@@ -1,0 +1,12 @@
+body{
+	font-family: arial, helvetica, sans-serif;
+}
+h2{
+	color: #aaa;
+}
+.random{
+	background-color: #ccc;	
+	border-radius: 25px;
+	display: inline-block;
+	margin-bottom: 1%;	
+}
